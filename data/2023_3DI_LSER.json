@@ -8,18 +8,25 @@
       "questions": "1_questions.json"
     },
     {
-      "date": "15/09/2022",
+      "date": "15/09/2023",
       "title": "Lezione 2",
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
     },
     {
-      "date": "19/09/2022",
+      "date": "19/09/2023",
       "title": "Lezione 3",
       "text": "3.html",
       "text_made_by": "Paolino Paperino",
       "questions": "3_questions.json"
+    },
+    {
+      "date": "07/10/2023",
+      "title": "Lezione 4",
+      "text": "4.html",
+      "text_made_by": "Paolino Paperino",
+      "questions": "4_q.json"
     }
   ]
 }  
