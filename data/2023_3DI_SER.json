@@ -1,25 +1,25 @@
 {
   "lessons": [
     {
-      "date": "12/09/2023",
-      "title": "Lezione 1",
+      "date": "26/09/2023",
+      "title": "Lezione 1 - Reti e Nodi",
       "text": "1.html",
-      "text_made_by": "Paolino Paperino",
-      "questions": "1_questions.json"
+      "text_made_by": "Debons",
+      "questions": "global_question.json"
     },
     {
-      "date": "15/09/2022",
-      "title": "Lezione 2",
+      "date": "30/09/2022",
+      "title": "Lezione 2 - Tipi di Lan (grandezza / topologia)",
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
-      "questions": "2_questions.json"
+      "questions": "global_question.json"
     },
     {
       "date": "14/10/2023",
       "title": "Lezione 3 - Modelli e Protocolli",
       "text": "3.html",
       "text_made_by": "Debons",
-      "questions": "3_questions.json"
+      "questions": "global_question.json"
     }
   ]
 }  
