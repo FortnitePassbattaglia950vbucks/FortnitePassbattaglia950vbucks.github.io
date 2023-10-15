@@ -11,13 +11,20 @@
       "date": "30/09/2022",
       "title": "Lezione 2 - Tipi di Lan (grandezza / topologia)",
       "text": "2.html",
-      "text_made_by": "Paolino Paperino",
+      "text_made_by": "Debons",
       "questions": "global_question.json"
     },
     {
-      "date": "14/10/2023",
-      "title": "Lezione 3 - Modelli e Protocolli",
+      "date": "07/10/2023",
+      "title": "Lezione 3 - Modalità di trasmissione",
       "text": "3.html",
+      "text_made_by": "Debons",
+      "questions": "global_question.json"
+    },
+    {
+      "date": "10/10/2023",
+      "title": "Lezione 4 - Tipi di Commutazione",
+      "text": "4.html",
       "text_made_by": "Debons",
       "questions": "global_question.json"
     }
