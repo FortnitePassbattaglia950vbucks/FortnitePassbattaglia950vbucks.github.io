@@ -13,6 +13,13 @@
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
+    },
+    {
+      "date": "14/10/2023",
+      "title": "Lezione 3 - Modelli e Protocolli",
+      "text": "3.html",
+      "text_made_by": "Debons",
+      "questions": "3_questions.json"
     }
   ]
 }  
